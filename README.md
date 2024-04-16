@@ -1,8 +1,7 @@
 ![MasterHead](https://i.imgur.com/nEUk3yl.png)
 <h1 align="center">Hi 👋, I'm Ahsen</h1>
 <h3 align="center">A passionate frontend developer from Türkiye</h3>
-<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG03OXF3aTR1dnljc3B1NWthdzRyNnRvcmx5OGtpeDl1dm91MGU4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ll22OhMLAlVDb8UQWe/giphy.gif">
-
+<img align="right" alt="Coding" width="400" 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahsenatas&label=Profile%20views&color=0e75b6&style=flat" alt="ahsenatas" /> </p>
 
 - 🌱 I’m currently learning **Python, Java**
